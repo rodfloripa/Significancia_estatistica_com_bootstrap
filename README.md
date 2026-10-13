@@ -18,9 +18,9 @@ O ponto principal é que:
 O artigo destaca problemas em interpretar p-valores como fronteiras rígidas (0.05) e a importância de considerar incertezas e contextos.
 </p>
 <p align="justify">
-Podemos calcular a significância estatistica com Bootstrap em qualquer distribuição,resultando no d de Cohen e Intervalo de Confiança,com
-uma estimativa confiável da significância estatística.O **d de Cohen** é uma medida de tamanho de efeito usada para quantificar a diferença
-padronizada entre as médias de dois grupos contínuos. Já o **h de Cohen** desempenha um papel semelhante, mas é aplicado especificamente
+Podemos calcular a significância estatistica com Bootstrap em qualquer distribuição,resultando no d/h de Cohen e Intervalo de Confiança,com
+uma estimativa confiável da significância estatística.O d de Cohen é uma medida de tamanho de efeito usada para quantificar a diferença
+padronizada entre as médias de dois grupos contínuos. Já o h de Cohen desempenha um papel semelhante, mas é aplicado especificamente
 para medir a diferença entre duas proporções ou taxas de sucesso.
 </p>
 <br><br>
